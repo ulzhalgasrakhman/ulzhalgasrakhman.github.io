@@ -10,4 +10,4 @@ I am interested in task planning and learning algorithms for various domains of 
 You can also find me on <a href="https://github.com/rakhmanu">GitHub </a>, <a href="https://www.linkedin.com/in/ulzhalgas/">LidkedIn </a>, <a href="https://gitlab.com/rakhmanu">GitLab </a>
 
 
-And you can always email me at 11dulzhalgasr@gmail.com 
+And you can always email me at urakhman@kaist.ac.kr or 11dulzhalgasr@gmail.com 
